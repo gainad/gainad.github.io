@@ -1,0 +1,63 @@
+{
+  "name": "Gainad — Веб-разработка, мобильные приложения, ИИ",
+  "short_name": "Gainad",
+  "description": "Делаем веб-платформы, мобильные приложения и ИИ-решения, которые окупаются. Среди клиентов — Сбер, Pioneer, Шереметьево.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0B0C",
+  "theme_color": "#0B0B0C",
+  "orientation": "portrait-primary",
+  "categories": ["business", "productivity", "web development", "design"],
+  "lang": "ru",
+  "dir": "ltr",
+  "scope": "/",
+  "id": "gainad",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Портфолио",
+      "short_name": "Портфолио",
+      "description": "Наши проекты и кейсы",
+      "url": "/ru/portfolio",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Связаться с нами",
+      "short_name": "Контакты",
+      "description": "Обсудить ваш проект",
+      "url": "/ru/#contact",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

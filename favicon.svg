@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0B0B0C"/>
+  <!-- Геометрическая «G»: дуга с разрывом справа-сверху + перекладина -->
+  <circle cx="256" cy="256" r="130" fill="none" stroke="#D4FF3F" stroke-width="68"
+          stroke-dasharray="700 117" stroke-linecap="butt"
+          transform="rotate(-15 256 256)"/>
+  <rect x="284" y="222" width="136" height="68" fill="#D4FF3F"/>
+</svg>
